@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 7.684 10.496">
+  <defs>
+    <style>
+      .cls-1{fill:#000000}
+    </style>
+  </defs>
+  <title>Asset 42</title>
+  <g id="SVG">
+    <g>
+      <g>
+        <polygon points="5.19,3.631 1.323,9.258 0,9.258 4.464,2.834" class="cls-1"/>
+        <polygon points="7.684,10.496 7.684,9.258 5.845,9.258 0,9.258 0.606,10.496 4.608,10.496" class="cls-1"/>
+        <polygon points="1.885,0 5.19,3.631 4.043,3.631 3.937,3.627 0.606,0" class="cls-1"/>
+      </g>
+    </g>
+  </g>
+</svg>

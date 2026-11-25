@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 5.654 10.496">
+  <defs>
+    <style>
+      .cls-1{fill:#000000}
+    </style>
+  </defs>
+  <title>Asset 6</title>
+  <g id="SVG">
+    <g>
+      <polygon points="0,9.258 0,10.496 1.353,10.496 5.654,10.496 5.654,9.258 2.264,9.258" class="cls-1"/>
+      <polygon points="1.238,0 0,0 0,2.215 0,9.258 1.238,9.258 1.238,3.706" class="cls-1"/>
+    </g>
+  </g>
+</svg>

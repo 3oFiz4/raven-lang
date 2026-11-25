@@ -1,0 +1,8 @@
+[package]
+name = "raven_lang_input"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.29"
+rodio = "0.19"
